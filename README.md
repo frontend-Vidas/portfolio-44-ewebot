@@ -13,7 +13,7 @@ HTML CSS learning project for begginers
 
 Site published at: 
 
-Design: [Coming] 
+Design: [Ewebot] 
 
 ## 🎯 Project features/goals
 
